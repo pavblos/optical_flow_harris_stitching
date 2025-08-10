@@ -1,0 +1,12 @@
+person10_running_d2_uncomp.avi
+person20_running_d1_uncomp.avi
+person24_running_d3_uncomp.avi
+person25_running_d4_uncomp.avi
+person06_boxing_d1_uncomp.avi
+person07_boxing_d3_uncomp.avi
+person11_boxing_d2_uncomp.avi
+person15_boxing_d4_uncomp.avi
+person07_walking_d4_uncomp.avi
+person08_walking_d2_uncomp.avi
+person11_walking_d1_uncomp.avi
+person20_walking_d3_uncomp.avi

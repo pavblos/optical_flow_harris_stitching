@@ -1,0 +1,18 @@
+Gabor HOG
+Accuracy for Gabor detector with HOG descriptor: 41.667%
+
+Gabor HOF
+Accuracy for Gabor detector with HOF descriptor: 58.333%
+
+Gabor HOG-HOF
+Accuracy for Gabor detector with HOG-HOF descriptor: 58.333%
+
+
+Harris HOG
+Accuracy for Harris detector with HOG descriptor: 50.000%
+
+Harris HOF
+Accuracy for Harris detector with HOF descriptor: 66.667%
+
+Harris HOG-HOF
+Accuracy for Harris detector with HOG-HOF descriptor: 58.333%
